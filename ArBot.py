@@ -112,4 +112,5 @@ async def permission_error(ctx, error):
     if isinstance(error, commands.MissingPermissions):
         await ctx.send("Shoma Permission Nadarid!")
 
-bot.run("MTQxNjU5NzQxOTI5NDA2NDcwMA.Gjwpqv.w2rkianYMvnhViOIuAnkD-hSyRgN6cOVpAKtQE")
+
+bot.run("MTQxNjU5NzQxOTI5NDA2NDcwMA.GsoAb5.6zJq0uYgTiuasMNHBT_Vb34aUICvuSAVHja9rU")
